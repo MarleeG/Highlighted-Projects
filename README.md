@@ -5,20 +5,20 @@ Listed below are projects which I would like to highlight. With each of the foll
 
 ## Projects
 
-+ [https://github.com/MarleeG/Peregrinate](Peregrinate) Group Project
+* [Peregrinate](https://github.com/MarleeG/Peregrinate) Group Project
 
-* [https://github.com/MarleeG/Codet](Codet) - Group Project
+* [Codet](https://github.com/MarleeG/Codet)  Group Project
 
-* [https://github.com/MarleeG/WhoRepresentsYou](WhoRepresentsYou) Group Project
+* [WhoRepresentsYou](https://github.com/MarleeG/WhoRepresentsYou) Group Project
 
-* [https://github.com/MarleeG/burger](Eat-Da-Burger)
+* [Eat-Da-Burger](https://github.com/MarleeG/burger)
 
-* [https://github.com/MarleeG/GiphsGiving](GiphsGiving) 
+* [GiphsGiving](https://github.com/MarleeG/GiphsGiving)
 
-* [https://github.com/MarleeG/FriendFinder](FriendFinder)
+* [FriendFinder](https://github.com/MarleeG/FriendFinder)
 
-* [https://github.com/MarleeG/TrackPad](TrackPad)
+* [TrackPad](https://github.com/MarleeG/TrackPad)
 
-* [https://github.com/MarleeG/AddressBook](AddressBook)
+* [AddressBook](https://github.com/MarleeG/AddressBook)
 
-* [https://github.com/MarleeG/liri-node-app](Liri-node-app)
+* [Liri-node-app](https://github.com/MarleeG/liri-node-app)
