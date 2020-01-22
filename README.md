@@ -5,11 +5,11 @@ Listed below are projects which I would like to highlight. With each of the foll
 
 ## Projects
 
-* [https://github.com/MarleeG/Peregrinate](Peregrinate - Group Project) 
+* [https://github.com/MarleeG/Peregrinate](Peregrinate)  - Group Project
 
-* [https://github.com/MarleeG/Codet](Codet - Group Project)
+* [https://github.com/MarleeG/Codet](Codet) - Group Project
 
-* [https://github.com/MarleeG/WhoRepresentsYou](WhoRepresentsYou - Group Project)
+* [https://github.com/MarleeG/WhoRepresentsYou](WhoRepresentsYou) - Group Project
 
 * [https://github.com/MarleeG/burger](Eat-Da-Burger)
 
