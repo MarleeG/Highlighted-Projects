@@ -22,3 +22,5 @@ Listed below are projects which I would like to highlight. With each of the foll
 * [AddressBook](https://github.com/MarleeG/AddressBook)
 
 * [Liri-node-app](https://github.com/MarleeG/liri-node-app)
+
+* [TrickyClicks](https://github.com/MarleeG/TrickyClicks)
